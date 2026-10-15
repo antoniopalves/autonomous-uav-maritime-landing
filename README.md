@@ -10,7 +10,7 @@ Autonomous landing of a PX4-controlled UAV on a WAM-V marker target in a VRX (Vi
 
 ### Stationary vessel
 
-<!-- Paste the GitHub video link for the stationary landing here (on its own line) -->
+<!--https://github.com/antoniopalves/autonomous-uav-maritime-landing/blob/main/assets/moving_landing.mp4 -->
 
 ### Moving vessel
 
