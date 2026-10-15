@@ -32,6 +32,12 @@ Replace the default `wamv_gazebo.urdf.xacro` in `wamv_gazebo/urdf/` with `simula
 
 > **Note:** Update the `<albedo_map>` URI path on line 196 to match the local path of `aruco_marker.png` on your machine.
 
+<p align="center">
+  <img src="aruco_marker.png" width="200" alt="ArUco marker used as the landing target on the WAM-V">
+  <br>
+  <em>ArUco marker (<code>aruco_marker.png</code>) used as the landing target on the WAM-V.</em>
+</p>
+
 ### 3. UAV & Sensor Models (`mono_cam` & `x500_mono_cam_down`)
 
 Copy `simulation/models/mono_cam/model.sdf` and `simulation/models/x500_mono_cam_down/model.sdf` into your PX4 Gazebo models directory (`PX4-Autopilot/Tools/simulation/gz/models/`).
@@ -52,9 +58,5 @@ Upon completion (Phase 5, Motor Disarm), the node automatically computes and pri
 
 ## Author
 
-<img src="https://github.com/USERNAME.png" width="120" alt="GitHub profile picture" align="left" style="border-radius: 50%; margin-right: 16px;">
-
 **António Maria de Oliveira Porto e Alcoforado Alves**
 Master in Electrical and Computer Engineering, NOVA School of Science and Technology (NOVA FCT), 2026.
-
-<br clear="left">
