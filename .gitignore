@@ -1,0 +1,1 @@
+@("*.mkv", "*.mp4") | Out-File -Encoding ascii .gitignore
