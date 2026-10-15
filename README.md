@@ -18,7 +18,9 @@ Autonomous landing of a PX4-controlled UAV on a WAM-V marker target in a VRX (Vi
  
 <video src="https://github.com/antoniopalves/autonomous-uav-maritime-landing/raw/main/assets/moving_landing.mp4" controls muted width="700"></video>
  
-[Watch the video](https://github.com/antoniopalves/autonomous-uav-maritime-landing/blob/main/assets/moving_landing.mp4)## System Requirements
+[Watch the video](https://github.com/antoniopalves/autonomous-uav-maritime-landing/blob/main/assets/moving_landing.mp4)
+
+### System Requirements
 
 - **OS:** Ubuntu 22.04 LTS (native or WSL2)
 - **Middleware:** ROS 2 Humble Hawksbill
