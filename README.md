@@ -181,4 +181,5 @@ Upon completion (Phase 5, Motor Disarm), the node automatically computes and pri
 ## Author
 
 **António Alves**
+
 Master in Electrical and Computer Engineering, NOVA School of Science and Technology (NOVA FCT), 2026.
